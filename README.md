@@ -27,4 +27,4 @@ Make the following to create your Sinara step:
 - git reset $(git commit-tree HEAD^{tree} -m "a new Sinara step")
 5. Push dsml component template to new origin
 - git push
-6. See the examples for details: https://github.com/4-DS/sinara-ext-tools.git
+6. See the [Getting Started](https://github.com/4-DS/sinara-tutorials/wiki/Getting-started) for details
